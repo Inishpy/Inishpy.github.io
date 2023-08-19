@@ -1,0 +1,117 @@
+/* Custom styles for the education section */
+
+.education-list {
+    margin-top: 20px;
+}
+
+.education-list ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.education-list li {
+    margin-bottom: 20px;
+    border-left: 2px solid #272d33;
+    padding-left: 15px;
+}
+
+.education-list strong {
+    font-size: 1.1rem;
+    display: block;
+}
+
+
+/* Custom styles */
+
+.skills-list ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    list-style: none;
+}
+
+.skills-list ul li {
+    flex: 1;
+    font-size: 14px;
+    padding: 5px;
+}
+
+
+/* Custom styles */
+
+.social-icons a {
+    font-size: 54px;
+    margin-right: 10px;
+    color: white;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover {
+    color: #007bff;
+}
+
+footer p {
+    margin-top: 10px;
+}
+
+
+/* Custom styles */
+
+.achievements-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.achievements-list ul li {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+
+/* Custom styles */
+
+.hackathon-list {
+    list-style-type: none;
+    padding: 0;
+    font-size: 14px;
+}
+
+.hackathon-list li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+
+/* Custom styles for education section */
+
+.education-list ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.education-list li {
+    font-size: 14px;
+    line-height: 1.4;
+    margin-left: 10px;
+    /* Add indentation */
+}
+
+
+/* Custom styles */
+
+.project-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project-list li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+/* Custom styles */
